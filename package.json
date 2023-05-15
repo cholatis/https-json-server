@@ -1,0 +1,19 @@
+{
+  "name": "https",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https-json-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-pause": "^0.1.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "json-server": "^0.17.3",
+    "path": "^0.12.7"
+  }
+}
